@@ -1,0 +1,34 @@
+> Estrutura da Documentação
+Atividade Final - Curso Python - Turma 58875
+Leonardo Luiz Firmo
+
+> Descrição Geral (Explicar o propósito geral do código ou do script)
+O objetivo deste código é de treinar os conceitos aprendidos no curso de Python administrado pelo professor Gabriel Rodrigues.
+
+> Descrição das Funções (Documentar cada função com uma descrição, parâmetros e valores de retorno)
+O código foi construido de forma a entender os conceitos básicos de programação em Python.
+O código está seguindo os seguintes passos:
+a) Instalação das bibliotecas básicas - assim qualquer usuário que executá-lo terá a mesma base em que foi escrito o programa;
+b) Carregamento das bibliotecas;
+c) Carregamento das APIs;
+d) Visualização dos dados destas APIs;
+e) Exportação para tabelas em CSV;
+f) Criação do arquivo Requirements;
+E por fim, 
+g) conexão e criação de tabelas para o banco de dados 'Curso Python_Turma58875'
+
+Para esta construção deste código, foram usados as seguintes APIs do Brasil API (1.0.0).
+Eles podem ser encontrados em https://brasilapi.com.br/docs ou diretamente, nos endereços abaixo:
+a) https://brasilapi.com.br/api/banks/v1 -> Lista de Bancos
+b) https://brasilapi.com.br/api/cvm/corretoras/v1 -> Lista de Corretoras
+c) https://brasilapi.com.br/api/ncm/v1 -> Lista dos Códigos NCM/Receita Federal
+
+> Exemplos de Uso (Fornecer exemplos básicos de como usar o código)
+O código é bastante simples, e foi produzido de forma ao usuário interagir com os conceitos básicos do Python e ter noção de como funciona/comporta o software.
+
+De posse destas APIs, foi possível aplicar os conceitos adquiridos para analisar os dados, tratar e até exportar os mesmos.
+
+> Notas e Considerações (Incluir quaisquer notas adicionais ou considerações importantes)
+a) Não foi feita nenhuma correlação entre as tabelas criadas, mas sim, apenas estudo de como carregar, analisar e tratá-las;
+b) O código ainda está em construção (Alertas de erro e tratamentos)
+c) Agradeço ao Gabriel Rodrigues por toda atenção e dedicação as aulas. Foram dias bem proveitosos.
