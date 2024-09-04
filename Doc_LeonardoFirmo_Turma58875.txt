@@ -30,5 +30,5 @@ De posse destas APIs, foi possível aplicar os conceitos adquiridos para analisa
 
 > Notas e Considerações (Incluir quaisquer notas adicionais ou considerações importantes)
 a) Não foi feita nenhuma correlação entre as tabelas criadas, mas sim, apenas estudo de como carregar, analisar e tratá-las;
-b) O código ainda está em construção (Alertas de erro e tratamentos)
+b) O código contém Alertas simples de erro e seus tratamentos
 c) Agradeço ao Gabriel Rodrigues por toda atenção e dedicação as aulas. Foram dias bem proveitosos.
